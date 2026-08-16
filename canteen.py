@@ -50,6 +50,5 @@ for item, qty in bill.items():
 print("----------------------")
 
 
-
 print("Total amount= Rs", order_total)  
 print("\nThank you for ordering!")
